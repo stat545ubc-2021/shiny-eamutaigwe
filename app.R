@@ -111,5 +111,10 @@ server <- function(input, output) {
     })
 }
 
+# Acknowledgement
+# I received assistance while creating the app through the following websites:
+# https://stackoverflow.com/questions/61625109/r-shiny-ggplot-reactive-to-varselectinput
+# https://www.bioinformatics.babraham.ac.uk/shiny/Intro_to_Shiny_course/examples/06_tidyverse/
+
 # Run the application 
 shinyApp(ui = ui, server = server)
