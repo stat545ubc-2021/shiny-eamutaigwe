@@ -21,8 +21,10 @@ ui <- fluidPage(
   # Brief description of the features in the Appication
   
   h5("This app provides an avenue to visually explore the various size relationships 
-  in species of penguins on 3 islands. The palmerpenguins::penguins dataset is used
-  for this purpose."),
+  in species of penguins on 3 islands."), 
+  
+  "The penguins dataset by Horst AM et al (2020) is used for this purpose.",
+  em(a("Palmerpenguins", href = "https://allisonhorst.github.io/palmerpenguins/")),
   
   h5("The app has the following features:
   1. It gives the user the freedom to select species of interest.
