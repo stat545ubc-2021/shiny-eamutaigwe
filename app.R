@@ -17,6 +17,9 @@ ui <- fluidPage(
     
   # Application title
   titlePanel("Characteristics of Penguins"),
+  
+  # Brief description on the features in the Appication
+  
   h5("This app provides an avenue to visually explore the various size relationships 
   in species of penguins on 3 islands. The palmerpenguins::penguins dataset is used
   for this purpose."),
