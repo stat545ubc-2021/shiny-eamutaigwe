@@ -1,4 +1,4 @@
-##Shiny Application for Visualizing Characteristics of Penguins
+## Shiny Application for Visualizing Characteristics of Penguins
 
 **Choice of Assignment**
 
