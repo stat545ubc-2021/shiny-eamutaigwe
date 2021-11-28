@@ -2,7 +2,7 @@
 
 **Choice of Assignment**
 
-This Application is part of STAT545B assignments. It involves A. modifying the BC Liquor app or B. creating a Shiny app from scratch. I chose option B, i.e. to create a Shiny app from scratch.
+This Application is part of STAT545B assignments. It involves either A. modifying the BC Liquor app or B. creating a Shiny app from scratch. I chose option B, i.e. to create a Shiny app from scratch.
 
 **How the App functions**
 
@@ -24,6 +24,7 @@ for this purpose.
 [Ekpereka Amutaigwe](https://ekpereka-amutaigwe.shinyapps.io/shiny-eamutaigwe/)
 
 **Data Source**
+
 The penguins dataset used in the app is from:
 
-[Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0.] (https://allisonhorst.github.io/palmerpenguins/)
+[Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0.](https://allisonhorst.github.io/palmerpenguins/)
