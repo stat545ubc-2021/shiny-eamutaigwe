@@ -5,10 +5,10 @@ account: ekpereka-amutaigwe
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 5215192
-bundleId: 5300295
+bundleId: 5300364
 url: https://ekpereka-amutaigwe.shinyapps.io/shiny-eamutaigwe/
-when: 1638055165.55771
-lastSyncTime: 1638055165.55773
+when: 1638058404.34328
+lastSyncTime: 1638058404.3433
 asMultiple: FALSE
 asStatic: FALSE
-ignoredFiles: README.md
+ignoredFiles: README.html|README.md
