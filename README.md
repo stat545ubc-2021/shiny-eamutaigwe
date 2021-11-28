@@ -1,14 +1,16 @@
-Shiny Application for Visualizing Characteristics of Penguins
+##Shiny Application for Visualizing Characteristics of Penguins
 
 **Choice of Assignment**
+
 This Application is part of STAT545B assignments. It involves A. modifying the BC Liquor app or B. creating a Shiny app from scratch. I chose option B, i.e. to create a Shiny app from scratch.
 
 **How the App functions**
+
 The app provides an avenue to visually explore the various size relationships 
 in species of penguins on 3 islands. The `palmerpenguins::penguins` dataset is used
 for this purpose.
   
-The app has the following features:
+**The app has the following features:**
 
 1. It gives the user the freedom to select species of interest.
 2. It also provides the option to choose specific size characteristics 
