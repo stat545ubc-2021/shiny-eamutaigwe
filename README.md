@@ -19,3 +19,9 @@ The app has the following features:
    The play can be paused at will. 
     
 **Link to a running instance of the Shiny app**
+[Ekpereka Amutaigwe](https://ekpereka-amutaigwe.shinyapps.io/shiny-eamutaigwe/)
+
+**Data Source**
+The penguins dataset used in the app is from:
+
+[Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0.] (https://allisonhorst.github.io/palmerpenguins/)
