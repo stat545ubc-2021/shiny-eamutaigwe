@@ -15,7 +15,7 @@ for this purpose.
 1. It gives the user the freedom to select species of interest.
 2. It also provides the option to choose specific size characteristics 
    (i.e. variables) to map to the x- and y-coordinates.
-3. The user can also select variables to map to colour.
+3. The user can also select a variable to map to colour.
 4. The user can also give the plot a custom title based on characteristics plotted.
 5. There is also an option to study the penguins within a specific year. 
 6. The user can select year of interest manually or by pressing the play button.
