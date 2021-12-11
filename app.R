@@ -26,12 +26,15 @@ penguins_sub1 <- penguins %>%
 
 # Define UI for application that draws a scatter plot
 ui <- navbarPage(tags$b("Gorgeous Penguins"), inverse = TRUE, theme = shinytheme("simplex"),
+                 
+        # Set tabs
         tabPanel("Characteristics of Penguins", 
           tabsetPanel(
-            # Set tabs
             tabPanel(tags$b("How to Use the App"),
+                    # Add image
                     img(src = "penguins.png", height = 140, width = 170),
-                          
+                    
+                    # Short description of the app      
                     h4("This app provides an avenue to visually explore the various size relationships 
                       in species of penguins on 3 islands."), 
                                      
