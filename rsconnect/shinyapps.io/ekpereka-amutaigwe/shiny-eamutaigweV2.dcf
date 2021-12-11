@@ -1,0 +1,14 @@
+name: shiny-eamutaigweV2
+title: shiny-eamutaigweV2
+username:
+account: ekpereka-amutaigwe
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5308779
+bundleId: 5358289
+url: https://ekpereka-amutaigwe.shinyapps.io/shiny-eamutaigweV2/
+when: 1639194808.27027
+lastSyncTime: 1639194808.27029
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: appcopy copy.R|appcopy.R|README.html|README.md
