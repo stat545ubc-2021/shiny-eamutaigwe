@@ -16,9 +16,10 @@ for this purpose.
 
 There's substantial improvement on the Shiny app created for assignment 3b.
 
-**A Summary of the improvements**
+**Summary of the improvements**
 
-+ A data table was added which changesa based on the user's selection of species and year.
++ A data table was added which changes based on the user's selection of species and year.
++ A navigation bar was added.
 + Three tabs were created for a) How to use the App b) Customize a Scatterplot c) Filtered Data Table
 + Plotly was used to make the plot interactive.
 + The plot and data table can be downloaded.
