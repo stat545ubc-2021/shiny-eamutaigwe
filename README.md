@@ -14,16 +14,24 @@ The app provides an avenue to visually explore the various size relationships
 in species of penguins on 3 islands. The `palmerpenguins::penguins` dataset is used
 for this purpose.
 
-Three tabs were created for a) How to use the App b) Customize a Scatterplot c) Filtered Data Table
+There's substantial improvement on the Shiny app created for assignment 3b.
+
+**A Summary of the improvements**
+
++ A data table was added which changesa based on the user's selection of species and year.
++ Three tabs were created for a) How to use the App b) Customize a Scatterplot c) Filtered Data Table
++ Plotly was used to make the plot interactive.
++ The plot and data table can be downloaded.
++ The interface for the variable to map to color was changed.
   
 **The app has the following features:**
 
-1. It gives the user the freedom to select species of interest
-2. It also provides the option to choose specific size characteristics, (i.e. variables) to map to the      x- and y-coordinates
-3. The user can also select a variable to map to colour
-4. The user can also give the plot a custom title based on characteristics plotted
-5. There is also an option to study the penguins within a specific year
-6. The user can select year of interest using the slider manually or by pressing the play button. The       play can be paused at will
+1. It gives the user the freedom to select species of interest.
+2. It also provides the option to choose specific size characteristics, (i.e. variables) to map to the      x- and y-coordinates.
+3. The user can also select a variable to map to colour.
+4. The user can also give the plot a custom title based on characteristics plotted.
+5. There is also an option to study the penguins within a specific year.
+6. The user can select year of interest using the slider manually or by pressing the play button. The       play can be paused at will.
 7. Hover your cursor over each point on the plot, and the values of the variables plotted on the x-axis,    y-axis will be displayed. Also displayed are values of variables plotted to size and color.
 8. Values on the data table change in accordance with your selection of species and year.
 9. You can search through the data table by typing value of interest.
