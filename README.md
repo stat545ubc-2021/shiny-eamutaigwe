@@ -27,8 +27,8 @@ Three tabs were created for a) How to use the App b) Customize a Scatterplot c) 
 7. Hover your cursor over each point on the plot, and the values of the variables plotted on the x-axis,    y-axis will be displayed. Also displayed are values of variables plotted to size and color.
 8. Values on the data table change in accordance with your selection of species and year.
 9. You can search through the data table by typing value of interest.
-10.There is an option to select the number of rows of the data table to display at any time, and also      move from one interface to another.
-11.Finally, you can click on the DOWNLOAD FILTERED DATA button to download the data table in .csv          according to your selection. The plotly package provides a camera icon on top of the plot for           downloading the plot.
+10. There is an option to select the number of rows of the data table to display at any time, and also      move from one interface to another.
+11. Finally, you can click on the DOWNLOAD FILTERED DATA button to download the data table in .csv          according to your selection. The plotly package provides a camera icon on top of the plot for           downloading the plot.
     
 **Link to a running instance of the Shiny app**
 [Ekpereka Amutaigwe](https://ekpereka-amutaigwe.shinyapps.io/shiny-eamutaigweV2/)
